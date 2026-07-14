@@ -13,26 +13,17 @@ I enjoy building software, solving challenging problems, and exploring both <b>B
 Currently, I'm expanding my skills by learning <b>Angular</b>, <b>TypeScript</b>, <b>React</b>, <b>Django</b>, and <b>FastAPI</b>. I'm also studying <b>Linux</b> and <b>Cybersecurity</b> to become a more complete Software Engineer.<br><br>
 
 I'm a detail-oriented, responsible, and self-motivated developer who enjoys learning new technologies, building real projects, and continuously improving both technical and problem-solving skills.
-
 </strong>
-</p>
 
+</p>
 <ul>
 <li>🌱 <b>I'm currently learning:</b> Angular, TypeScript, React, Django, FastAPI, Linux, and Cybersecurity.</li>
-
 <li>🎓 <b>Education:</b> Systems Engineering student.</li>
-
 <li>🎯 <b>Current goal:</b> Build real projects, strengthen my Full Stack development skills, and land my first Software Engineering opportunity.</li>
-
 <li>🤝 <b>I'm open to:</b> Junior Software Engineering internships, entry-level developer positions, and Open Source collaborations.</li>
-
 <li>💬 <b>Ask me about:</b> Python, Web Development, Git, GitHub, MySQL, or anything related to my learning journey.</li>
-
 <li>⚡ <b>Fun fact:</b> I love MMA 🥋, music 🎵, movies 🎬, video games 🎮, and learning new technologies 💻.</li>
-
 <li>📫 <b>How to reach me:</b> Connect with me via the links below.</li>
-
-
 </ul>
 <div align="center">
 <p align="center">
@@ -42,3 +33,23 @@ I'm a detail-oriented, responsible, and self-motivated developer who enjoys lear
 </p>
 </div>
 
+<h4> Languages </h4>
+<span> 
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white">
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white">
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black">
+  <img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54">
+  <img src= "https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white">
+ 
+
+</span>
+
+
+<h4> Other Tools and Technologies </h4>
+<span>
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white">
+  <img src="https://img.shields.io/badge/Notion-%23000000.svg?style=for-the-badge&logo=notion&logoColor=white">
+  <img src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white">
+
+
+</span>
