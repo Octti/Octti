@@ -37,9 +37,9 @@ I'm a detail-oriented, responsible, and self-motivated developer who enjoys lear
 </ul>
 <div align="center">
 <p align="center">
-<a href="https://www.linkedin.com/in/octi-romero-71358a241/"><img src="https://img.shields.io/badge/style=flat&logo=Linkedin&logoColor=white"/></a>
-<a href="mailto:oromerowd@gmail.com"><img src="https://img.shields.io/badge/style=flat&logo=Gmail&logoColor=white"/></a>
-<a href="https://www.instagram.com/octtaromero/"><img src="https://img.shields.io/badge/style=flat&logo=Instagram&logoColor=white"/></a>
+<a href="https://www.linkedin.com/in/octi-romero-71358a241/"><img src="https://img.shields.io/badge/-Octavio%20Romero-0077B5?style=flat&logo=Linkedin&logoColor=white"/></a>
+<a href="mailto:oromerowd@gmail.com"><img src="https://img.shields.io/badge/-oromerowd@gmail.com-D14836?style=flat&logo=Gmail&logoColor=white"/></a>
+<a href="https://www.instagram.com/octtaromero/"><img src="https://img.shields.io/badge/-octtaromero-E4405F?style=flat&logo=Instagram&logoColor=white"/></a>
 </p>
 </div>
 
