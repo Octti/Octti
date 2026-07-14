@@ -7,7 +7,7 @@
 <strong>
 
 🎓 Systems Engineering student passionate about software development, technology, and continuous learning.<br><br>
-<img align="right" width=300px alt="Unicorn" src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExajJ3bDF2dGFpNXJzcjB3azZra3c4d2Y1YTU2Znhiam9mZXBuY2txNCZlcD12MV9naWZzX3NlYXJjaCZjdD1n/MTzgVoz8ZiEZSbeNAb/200.webp"/>
+<img align="right" width=300px alt="Unicorn" src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExajJ3bDF2dGFpNXJzcjB3azZra3c4d2Y1YTU2Znhiam9mZXBuY2txNCZlcD12MV9naWZzX3NlYXJjaCZjdD1n/7KulyELpuUPjRAELrc/200.webp"/>
 I enjoy building software, solving challenging problems, and exploring both <b>Back-End</b> and <b>Front-End</b> development. My main programming language is <b>Python</b>, and I have experience working with <b>MySQL</b>, <b>Git</b>, <b>GitHub</b>, object-oriented programming, algorithms and data structures, and database design. I also completed a Web Development course focused on <b>WordPress</b>.<br><br>
 
 Currently, I'm expanding my skills by learning <b>Angular</b>, <b>TypeScript</b>, <b>React</b>, <b>Django</b>, and <b>FastAPI</b>. I'm also studying <b>Linux</b> and <b>Cybersecurity</b> to become a more complete Software Engineer.<br><br>
@@ -25,7 +25,7 @@ I'm a detail-oriented, responsible, and self-motivated developer who enjoys lear
 <li>⚡ <b>Fun fact:</b> I love MMA 🥋, music 🎵, movies 🎬, video games 🎮, and learning new technologies 💻.</li>
 <li>📫 <b>How to reach me:</b> Connect with me via the links below.</li>
 </ul>
-<div align="center">
+<div>
 <p align="center">
 <a href="https://www.linkedin.com/in/octi-romero-71358a241/"><img src="https://img.shields.io/badge/-Octavio%20Romero-0077B5?style=flat&logo=Linkedin&logoColor=white"/></a>
 <a href="mailto:oromerowd@gmail.com"><img src="https://img.shields.io/badge/-oromerowd@gmail.com-D14836?style=flat&logo=Gmail&logoColor=white"/></a>
