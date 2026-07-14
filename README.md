@@ -29,12 +29,18 @@ I'm a detail-oriented, responsible, and self-motivated developer who enjoys lear
 
 <li>💬 <b>Ask me about:</b> Python, Web Development, Git, GitHub, MySQL, or anything related to my learning journey.</li>
 
-<li>📫 <b>How to reach me:</b> Connect with me via the links below.</li>
-
 <li>⚡ <b>Fun fact:</b> I love MMA 🥋, music 🎵, movies 🎬, video games 🎮, and learning new technologies 💻.</li>
 
+<li>📫 <b>How to reach me:</b> Connect with me via the links below.</li>
+
+
 </ul>
+<div align="center">
+<p align="center">
+<a href="https://www.linkedin.com/in/ask2001/"><img src="https://img.shields.io/badge/-Aditya%20Sunit%20Kanoi-0077B5?style=flat&logo=Linkedin&logoColor=white"/></a>
+<a href="mailto:adityakanoiofficial@gmail.com"><img src="https://img.shields.io/badge/-Adityakanoi-D14836?style=flat&logo=Gmail&logoColor=white"/></a>
+<a href="https://www.instagram.com/aditya_kanoi123/"><img src="https://img.shields.io/badge/-Adityakanoi123-E4405F?style=flat&logo=Instagram&logoColor=white"/></a>
+</p>
 
 </div>
 
-<div align="center">
