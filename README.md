@@ -7,13 +7,13 @@
 <p>
 <strong>
 
-🎓 Third-year Computer Systems Engineering student passionate about software development, technology, and continuous learning.<br><br>
+🎓 Systems Engineering student passionate about software development, technology, and continuous learning.<br><br>
 
-I enjoy building software, solving challenging problems, and exploring both <b>Back-End</b> and <b>Front-End</b> development. My main programming language is <b>Python</b>, and I have experience working with <b>MySQL</b>, <b>Git</b>, <b>GitHub</b>, object-oriented programming, algorithms, data structures, and database design. I also completed a Web Development course focused on <b>WordPress</b>.<br><br>
+I enjoy building software, solving challenging problems, and exploring both <b>Back-End</b> and <b>Front-End</b> development. My main programming language is <b>Python</b>, and I have experience working with <b>MySQL</b>, <b>Git</b>, <b>GitHub</b>, object-oriented programming, algorithms and data structures, and database design. I also completed a Web Development course focused on <b>WordPress</b>.<br><br>
 
 Currently, I'm expanding my skills by learning <b>Angular</b>, <b>TypeScript</b>, <b>React</b>, <b>Django</b>, and <b>FastAPI</b>. I'm also studying <b>Linux</b> and <b>Cybersecurity</b> to become a more complete Software Engineer.<br><br>
 
-I'm a detail-oriented, responsible, and self-motivated developer who enjoys learning new technologies, building real-world projects, and continuously improving both technical and problem-solving skills.
+I'm a detail-oriented, responsible, and self-motivated developer who enjoys learning new technologies, building real projects, and continuously improving both technical and problem-solving skills.
 
 </strong>
 </p>
@@ -21,15 +21,15 @@ I'm a detail-oriented, responsible, and self-motivated developer who enjoys lear
 <ul>
 <li>🌱 <b>I'm currently learning:</b> Angular, TypeScript, React, Django, FastAPI, Linux, and Cybersecurity.</li>
 
-<li>🎓 <b>Education:</b> Third-year Computer Systems Engineering student.</li>
+<li>🎓 <b>Education:</b> Systems Engineering student.</li>
 
-<li>🎯 <b>Current goal:</b> Build real-world projects, strengthen my Full Stack development skills, and land my first Software Engineering opportunity.</li>
+<li>🎯 <b>Current goal:</b> Build real projects, strengthen my Full Stack development skills, and land my first Software Engineering opportunity.</li>
 
 <li>🤝 <b>I'm open to:</b> Junior Software Engineering internships, entry-level developer positions, and Open Source collaborations.</li>
 
 <li>💬 <b>Ask me about:</b> Python, Web Development, Git, GitHub, MySQL, or anything related to my learning journey.</li>
 
-<li>📫 <b>How to reach me:</b> Connect with me through the links above.</li>
+<li>📫 <b>How to reach me:</b> Connect with me via the links below.</li>
 
 <li>⚡ <b>Fun fact:</b> I love MMA 🥋, music 🎵, movies 🎬, video games 🎮, and learning new technologies 💻.</li>
 
