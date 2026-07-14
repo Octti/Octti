@@ -1,4 +1,4 @@
-<h1 align="center">Hi , I'm Octavio Romero <img src="https://giphy.com/gifs/argentina-world-cup-messi-MTzgVoz8ZiEZSbeNAb" width="35"></h1>
+<h1 align="center">Hi , I'm Octavio Romero <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
 
 </div>
 <div align="left">
@@ -7,7 +7,7 @@
 <strong>
 
 🎓 Systems Engineering student passionate about software development, technology, and continuous learning.<br><br>
-<img align="right" width=300px alt="Unicorn" src="https://c.tenor.com/GN73MKBawZYAAAAi/busy-cute.gif" />
+<img align="right" width=300px alt="Unicorn" src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExajJ3bDF2dGFpNXJzcjB3azZra3c4d2Y1YTU2Znhiam9mZXBuY2txNCZlcD12MV9naWZzX3NlYXJjaCZjdD1n/MTzgVoz8ZiEZSbeNAb/200.webp"/>
 I enjoy building software, solving challenging problems, and exploring both <b>Back-End</b> and <b>Front-End</b> development. My main programming language is <b>Python</b>, and I have experience working with <b>MySQL</b>, <b>Git</b>, <b>GitHub</b>, object-oriented programming, algorithms and data structures, and database design. I also completed a Web Development course focused on <b>WordPress</b>.<br><br>
 
 Currently, I'm expanding my skills by learning <b>Angular</b>, <b>TypeScript</b>, <b>React</b>, <b>Django</b>, and <b>FastAPI</b>. I'm also studying <b>Linux</b> and <b>Cybersecurity</b> to become a more complete Software Engineer.<br><br>
